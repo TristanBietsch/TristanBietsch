@@ -1,4 +1,3 @@
-```
 ╭─────────────────────────────────────────────────────────────────────────────╮
 │ tristan@github                                                              │
 ╰─────────────────────────────────────────────────────────────────────────────╯
@@ -16,25 +15,24 @@
 > $ highlights
 
 • non-custodial bitcoin wallet (react native + bitcoinjs)
-• non-custodial bitcoin escrow 
-
+• non-custodial bitcoin escrow
 
 > $ stack --grid
 
 ```
-> ┌─────────────┬────────────────────────────────────────────┐
-> │ core        │ typescript, elixir, go, rust, zig          │
-> ├─────────────┼────────────────────────────────────────────┤
-> │ frameworks  │ astro, next, phoenix, expo, gin            │
-> ├─────────────┼────────────────────────────────────────────┤
-> │ data        │ postgres, redis                            │
-> ├─────────────┼────────────────────────────────────────────┤
-> │ infra       │ docker, k8s, vercel, fly.io, aws           │
-> ├─────────────┼────────────────────────────────────────────┤
-> │ cryptography│ bitcoin core, secp256k1, lightning, solana │
-> ├─────────────┼────────────────────────────────────────────┤
-> │ tools       │ bun/pnpm, turbo, cursor, vim motions       │
-> └─────────────┴────────────────────────────────────────────┘
+┌─────────────┬────────────────────────────────────────────┐
+│ core        │ typescript, elixir, go, rust, zig          │
+├─────────────┼────────────────────────────────────────────┤
+│ frameworks  │ astro, next, phoenix, expo, gin            │
+├─────────────┼────────────────────────────────────────────┤
+│ data        │ postgres, redis                            │
+├─────────────┼────────────────────────────────────────────┤
+│ infra       │ docker, k8s, vercel, fly.io, aws           │
+├─────────────┼────────────────────────────────────────────┤
+│ cryptography│ bitcoin core, secp256k1, lightning, solana │
+├─────────────┼────────────────────────────────────────────┤
+│ tools       │ bun/pnpm, turbo, cursor, vim motions       │
+└─────────────┴────────────────────────────────────────────┘
 ```
 
 > $ writing --open
@@ -60,5 +58,4 @@
 
 > $ status
 
-• factorio • systems • f1 • infra • philosphy • maths
-```
+• factorio • systems • f1 • infra • philosophy • maths
