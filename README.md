@@ -6,7 +6,7 @@
 > $ whoami
 
 • tristan bietsch — building a stealth fintech startup
-• product-minded engineer • founder • performance & systems focus • TUIs
+• product-minded engineer • founder • performance & systems focus • TUIs • extreme minimalist
 
 > $ now
 
