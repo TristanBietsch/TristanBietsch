@@ -38,14 +38,14 @@
 
 • Visa/Mastercard as L2 → https://medium.com/@tristanbietsch/the-best-bitcoin-layer-2-already-exists-visa-and-mastercard-b46f82360af3
 • Bitcoin as collateral → https://medium.com/@tristanbietsch/bitcoins-scalable-future-how-collateralized-credit-cards-will-drive-mass-adoption-66b22825a21d
-• more → https://medium.com/@tristanbietsch
+• more of my writings   → https://medium.com/@tristanbietsch
 
 > $ experience --tail -n 4
 
-2025–present  founder/ceo — stealth
-2022–2024     founder/ceo — bitescrow — non-custodial escrow
-2019–2021     full-stack eng — jr freelance roles
-2017–2019     self study — full-stack certification
+2025–present  founder/ceo     — stealth
+2022–2024     founder/ceo     — bitescrow — non-custodial escrow
+2019–2021     full-stack eng  — jr freelance roles
+2017–2019     self study      — full-stack certification
 
 > $ contact
 
