@@ -55,5 +55,5 @@
 
 > $ status
 
-• factorio • systems • f1 • infra • philosophy • maths
+• factorio • systems • f1 • infra • philosophy • maths • UNIX
 ```
