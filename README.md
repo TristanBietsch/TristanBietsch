@@ -21,7 +21,7 @@
 > $ stack --grid
 
 ┌─────────────┬────────────────────────────────────────────┐
-│ core        │ typescript, elixir, go, rust, zig          │
+│ core        │ typescript, elixir, go, rust, zig, python  │
 ├─────────────┼────────────────────────────────────────────┤
 │ frameworks  │ astro, next, phoenix, expo, gin            │
 ├─────────────┼────────────────────────────────────────────┤
