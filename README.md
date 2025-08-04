@@ -1,3 +1,4 @@
+```
 ╭─────────────────────────────────────────────────────────────────────────────╮
 │ tristan@github                                                              │
 ╰─────────────────────────────────────────────────────────────────────────────╯
@@ -19,7 +20,6 @@
 
 > $ stack --grid
 
-```
 ┌─────────────┬────────────────────────────────────────────┐
 │ core        │ typescript, elixir, go, rust, zig          │
 ├─────────────┼────────────────────────────────────────────┤
@@ -33,7 +33,6 @@
 ├─────────────┼────────────────────────────────────────────┤
 │ tools       │ bun/pnpm, turbo, cursor, vim motions       │
 └─────────────┴────────────────────────────────────────────┘
-```
 
 > $ writing --open
 
@@ -43,12 +42,10 @@
 
 > $ experience --tail -n 4
 
-```
 2025–present  founder/ceo — pediment — fintech infra
 2022–2024     founder/ceo — bitescrow — non-custodial escrow
 2019–2021     full-stack eng — jr freelance roles
 2017–2019     self study — full-stack certification
-```
 
 > $ contact
 
@@ -59,3 +56,4 @@
 > $ status
 
 • factorio • systems • f1 • infra • philosophy • maths
+```
