@@ -42,7 +42,7 @@
 
 > $ experience --tail -n 4
 
-2025–present  founder/ceo — pediment — fintech infra
+2025–present  founder/ceo — stealth
 2022–2024     founder/ceo — bitescrow — non-custodial escrow
 2019–2021     full-stack eng — jr freelance roles
 2017–2019     self study — full-stack certification
