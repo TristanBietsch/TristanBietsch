@@ -12,6 +12,7 @@
 
 • shipping bank-grade infra (stealth)
 • focus: reliability, compliance surfaces, ops ergonomics
+• for fun: SAGE lang
 
 > $ highlights
 
