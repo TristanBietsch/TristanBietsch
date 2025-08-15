@@ -5,14 +5,16 @@
 
 > $ whoami
 
-• tristan bietsch — building a stealth fintech startup
+• tristan bietsch — building a stealth fintech startup & SAGE lang
 • product-minded engineer • founder • performance & systems focus • TUIs • extreme minimalist
 
 > $ now
 
 • shipping bank-grade infra (stealth)
 • focus: reliability, compliance surfaces, ops ergonomics
-• for fun: SAGE lang
+• shipping SAGE lang
+• focus: increase understanding
+
 
 > $ highlights
 
