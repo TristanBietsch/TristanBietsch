@@ -5,7 +5,7 @@
 
 > $ whoami
 
-• tristan bietsch — building a stealth fintech startup & human. programming language
+• tristan bietsch — building a stealth fintech startup & human programming language
 • product-minded engineer • founder • performance & systems focus • TUIs • extreme minimalist
 
 > $ now
