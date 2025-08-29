@@ -39,6 +39,7 @@
 
 > $ writing --open
 
+• Introducing HumanLang → https://medium.com/@tristanbietsch/introducing-human-a-programming-language-for-the-ai-native-era-651cadf0268c
 • Visa/Mastercard as L2 → https://medium.com/@tristanbietsch/the-best-bitcoin-layer-2-already-exists-visa-and-mastercard-b46f82360af3
 • Bitcoin as collateral → https://medium.com/@tristanbietsch/bitcoins-scalable-future-how-collateralized-credit-cards-will-drive-mass-adoption-66b22825a21d
 • more of my writings   → https://medium.com/@tristanbietsch
